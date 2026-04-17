@@ -1,0 +1,21 @@
+{"timestamp":"00:17:52.830","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir 'C:\\Learning\\drupal-poc-demo-antigravity\\app'"}
+{"timestamp":"00:17:52.835","source":"Server","level":"ERROR","message":"⨯ \"unhandledRejection:\" Error: ENOENT: no such file or directory, scandir 'C:\\Learning\\drupal-poc-demo-antigravity\\app'"}
+{"timestamp":"00:17:52.840","source":"Server","level":"ERROR","message":"⨯ \"unhandledRejection: \" Error: ENOENT: no such file or directory, scandir 'C:\\Learning\\drupal-poc-demo-antigravity\\app'"}
+{"timestamp":"00:17:53.143","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir 'C:\\Learning\\drupal-poc-demo-antigravity\\app'"}
+{"timestamp":"00:17:53.146","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir 'C:\\Learning\\drupal-poc-demo-antigravity\\app'"}
+{"timestamp":"00:17:53.157","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir 'C:\\Learning\\drupal-poc-demo-antigravity\\app'"}
+{"timestamp":"00:17:53.162","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir 'C:\\Learning\\drupal-poc-demo-antigravity\\app'"}
+{"timestamp":"00:17:53.168","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir 'C:\\Learning\\drupal-poc-demo-antigravity\\app'"}
+{"timestamp":"00:17:53.171","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir 'C:\\Learning\\drupal-poc-demo-antigravity\\app'"}
+{"timestamp":"00:17:53.178","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir 'C:\\Learning\\drupal-poc-demo-antigravity\\app'"}
+{"timestamp":"00:17:53.180","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir 'C:\\Learning\\drupal-poc-demo-antigravity\\app'"}
+{"timestamp":"00:17:53.197","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir 'C:\\Learning\\drupal-poc-demo-antigravity\\app'"}
+{"timestamp":"00:17:53.201","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir 'C:\\Learning\\drupal-poc-demo-antigravity\\app'"}
+{"timestamp":"00:17:53.207","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir 'C:\\Learning\\drupal-poc-demo-antigravity\\app'"}
+{"timestamp":"00:17:53.210","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir 'C:\\Learning\\drupal-poc-demo-antigravity\\app'"}
+{"timestamp":"00:17:53.224","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir 'C:\\Learning\\drupal-poc-demo-antigravity\\app'"}
+{"timestamp":"00:17:53.228","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir 'C:\\Learning\\drupal-poc-demo-antigravity\\app'"}
+{"timestamp":"00:17:53.259","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir 'C:\\Learning\\drupal-poc-demo-antigravity\\app'"}
+{"timestamp":"00:17:53.267","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir 'C:\\Learning\\drupal-poc-demo-antigravity\\app'"}
+{"timestamp":"00:17:53.322","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir 'C:\\Learning\\drupal-poc-demo-antigravity\\app'"}
+{"timestamp":"00:17:53.328","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir 'C:\\Learning\\drupal-poc-demo-antigravity\\app'"}
